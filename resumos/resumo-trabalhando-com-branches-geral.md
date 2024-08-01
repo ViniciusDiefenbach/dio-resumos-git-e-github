@@ -5,15 +5,19 @@ Em resumo, uma branch é uma ramificação (tradução literal) de seu repositó
 ![Ilustração Branches](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 
 **Criação de uma branch:** para tal, utilize o seguinte comando...
+
 ```git checkout -b <name-branch>```
 
 **Trocar de branch:** para tal, utilize o seguinte comando...
+
 ```git checkout <name-branch>```
 
 **Verificar branches e indexes de cada branch:** para tal, utilize o seguinte comando...
+
 ```git branch <-v>```
 
 **Remover uma branch:** para tal, utilize o seguinte comando...
+
 ```git branch -d <name-branch>```
 
 [Clique Aqui para Voltar](/README.md)
