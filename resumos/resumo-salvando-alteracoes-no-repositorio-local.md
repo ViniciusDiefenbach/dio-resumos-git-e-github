@@ -18,7 +18,9 @@ Uma vez que temos arquivos com o status staged, podemos realizar o commit com o 
 
 ## Notas
 *Nota1: O "." após o "add" adicionará todos os arquivos novos ou modificados*
+
 *Nota2: Para preparar pastas vazias para o commit, você pode criar um arquivo chamado ".gitkeep" dentro da pasta, a fim de armazena-la em seu repositório mesmo sem possuir arquivos*
+
 *Nota3: Para não incluir e evitar o rastreio de determinados arquivos por parte do Git, podemos utilizar o arquivo ".gitignore". Este serve justamente para previnir o Git de adicionar arquivos indesejados ao repositório*
 
 [Clique Aqui para Voltar](/README.md)
